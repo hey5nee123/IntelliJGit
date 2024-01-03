@@ -6,7 +6,7 @@ public class Board {
     private int boardNo;
     private String boardHead;
     private String boardWho;
-    private String board
+    private String board;
     public static void main(String[] args) {
 
     }
